@@ -83,7 +83,8 @@
 - [Qdrant](https://qdrant.tech) – High-performance filtered vector search
 - [LanceDB](https://lancedb.com) – Serverless vector DB on Parquet
 - [Milvus](https://milvus.io) – Scalable open-source vector database
-- [Faiss](https://github.com/facebookresearch/faiss) – Facebook similarity search library [Pinecone](https://pinecone.io) – Self-hosted vector database
+- [Faiss](https://github.com/facebookresearch/faiss) – Facebook similarity search library
+- [Pinecone](https://pinecone.io) – Self-hosted vector database
 - [Vespa](https://vespa.ai) – Big data serving with vector search
 - [Typesense](https://typesense.org) – Typo-tolerant search with vectors
 - [Redis Vector Library](https://redis.io) – In-memory vector similarity
